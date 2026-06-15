@@ -1,0 +1,4 @@
+interface:
+  display_name: "Google Scholar EndNote"
+  short_description: "Export or batch-generate EndNote citation files"
+  default_prompt: "Use $google-scholar-endnote to create EndNote .enw files for a paper title or a numbered TXT reference list."
